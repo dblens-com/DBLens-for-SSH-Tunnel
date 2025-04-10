@@ -6,7 +6,7 @@
 专业的SSH隧道管理工具，支持多端口转发和可视化控制
 
 
-[![Go Report Card](https://github.com/dblens-com/DBLens-for-SSH-Tunnel/image/demo.png)]
+[![Go Report Card](https://github.com/dblens-com/DBLens-for-SSH-Tunnel/blob/main/image/demo.png?raw=true)]
 ## 功能特性
 
 ✅ **多隧道管理** - 同时管理多个SSH隧道  
